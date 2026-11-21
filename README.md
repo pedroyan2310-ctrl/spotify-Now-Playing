@@ -66,7 +66,7 @@ Ele não usa a API do Spotify. Em vez disso, lê a música direto do **Windows**
 
 | Recurso | Descrição |
 | --- | --- |
-| 🪟 **Janela flutuante** | Sem moldura, transparente, sempre por cima e fora da barra de tarefas. Aparece no canto superior direito da tela. |
+| 📌 **Janela flutuante** | Sem moldura, transparente, sempre por cima e fora da barra de tarefas. Aparece no canto superior direito da tela. |
 | 🖼️ **Capa + fundo desfocado** | A capa do álbum vira um fundo com blur que muda suavemente (crossfade) a cada música. |
 | 🎨 **Cor de destaque automática** | A cor média da capa é extraída e usada na borda animada do card e nos detalhes. |
 | 💿 **Capa giratória e equalizador** | A capa gira devagar e as barrinhas do equalizador dançam enquanto a música toca. |
@@ -101,8 +101,8 @@ Nas próximas vezes, é só abrir esse atalho — sem terminal e sem janela pret
 ### Opção 2 — Pelo terminal
 
 ```bash
-git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
-cd <seu-repositorio>
+git clone https://github.com/pedroyan2310-ctrl/spotify-Now-Playing.git
+cd spotify-Now-Playing
 npm install
 npm start
 ```
@@ -142,7 +142,7 @@ Ao entrar na tela cheia você escolhe uma **vibe**. Cada uma muda o degradê de 
 | --- | --- |
 | 💕 **Apaixonado** | Círculos rosa que sobem devagar, com brilho suave |
 | 🔥 **Raiva** | Triângulos vermelhos e laranja, rápidos e tremidos |
-| 🪅 **Funk** | Quadrados neon (rosa, ciano, amarelo e verde) quicando no ritmo |
+| 🎉 **Funk** | Quadrados neon (rosa, ciano, amarelo e verde) quicando no ritmo |
 | 🌧️ **Triste** | Pontinhos azuis caindo como chuva |
 | ✨ **Feliz** | Quadrados dourados e laranja saltitantes |
 | 🌙 **Calmo** | Círculos grandes e translúcidos, em tons de verde-água, flutuando lentamente |
